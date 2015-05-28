@@ -1,0 +1,4 @@
+Get Element by css match - page.parser.css(identificationString);
+Inspect element for methods - element.inspect
+Get attributes from element - element["AttributeName"]
+Get text from element - element.children[0].content
